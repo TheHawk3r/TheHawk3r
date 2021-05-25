@@ -4,7 +4,6 @@ My name is Madalin and I am a tech enthusiast
 
 <!-- **TheHawk3r/TheHawk3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Django projects
 - 🌱 I’m currently learning Python, Django, C#, Java, C++, Javascript
