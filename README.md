@@ -1,5 +1,4 @@
 ### Hi there 👋 
-My name is Madalin and I am a tech enthusiast
 
 
 <!-- **TheHawk3r/TheHawk3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
